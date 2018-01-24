@@ -1,0 +1,13 @@
+{
+	"name": "rafaelqueiroz/subscriptions",
+	"description": "Subscriptions plugin",
+
+	"author": "Rafael Queiroz",
+	"authorEmail": "rafaelfqf@gmail.com",
+	"authorUrl": "http://github.com/rafaelqueiroz/croogo-sample",
+
+	"dependencies": {
+		"plugins": [
+		]
+	}
+}
